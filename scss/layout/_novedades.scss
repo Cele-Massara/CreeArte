@@ -20,6 +20,7 @@
         div {
             h2 {
                 margin: 10px;
+                font-family: $profesional-font;
 
                 @media (max-width: $lg) {
                     font-size: 30px; 
@@ -86,6 +87,7 @@
         }
         h4 {
             font-size: $h2-font-size;
+            font-family: $profesional-font;
         }
 
     // button hover and properties
@@ -95,7 +97,6 @@
             border: 1px solid white;
             background-color: transparent;
             font-size: 20px;
-            font-family: $custom-font;
 
             &:hover {
                 transition: all 400ms;

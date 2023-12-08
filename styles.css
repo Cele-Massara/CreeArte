@@ -733,6 +733,7 @@ header .flexHeader div nav ul a {
 }
 .sectionNews .flexNovedades div h2 {
   margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 @media (max-width: 992px) {
   .sectionNews .flexNovedades div h2 {
@@ -797,13 +798,13 @@ header .flexHeader div nav ul a {
 }
 .releaseNews .card-bodies h4 {
   font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .releaseNews .card-bodies .btn-primary {
   transition: all 400ms;
   border: 1px solid white;
   background-color: transparent;
   font-size: 20px;
-  font-family: "Gluten", cursive;
 }
 .releaseNews .card-bodies .btn-primary:hover {
   transition: all 400ms;
