@@ -206,9 +206,7 @@ header .flexHeader div nav ul a {
 }
 
 .sectionOnebackground {
-  background-image: url(destacados/section_1.jpg);
-  background-size: cover;
-  font-family: "Fuzzy Bubbles", cursive;
+  font-family: Arial, Helvetica, sans-serif;
   width: 100%;
 }
 @media (max-width: 576px) {
@@ -232,7 +230,7 @@ header .flexHeader div nav ul a {
   }
 }
 .sectionOnebackground .container-fluid .carousel-inner {
-  border: 2px solid black;
+  border: 1px solid lightpink;
 }
 .sectionOnebackground .container-fluid .imgCarousel img {
   height: auto;
@@ -246,6 +244,7 @@ header .flexHeader div nav ul a {
 .sectionOnebackground .container-fluid .imgCarousel p {
   font-family: "Gluten", cursive;
   font-size: 1.5rem;
+  color: white;
 }
 @media (max-width: 576px) {
   .sectionOnebackground .container-fluid .imgCarousel p {
@@ -258,7 +257,7 @@ header .flexHeader div nav ul a {
   }
 }
 .sectionOnebackground .container-fluid .imagenMes {
-  border: 8px double black;
+  border-radius: 10px;
   height: 311px;
 }
 .sectionOnebackground .destacadosMes {
@@ -291,7 +290,7 @@ header .flexHeader div nav ul a {
   font-family: "Fuzzy Bubbles", cursive;
   height: auto;
   width: 100%;
-  background: linear-gradient(180deg, #5584AC 0%, #95D1CC 75%, #F6F2D4 90%, #F6F6F6 100%);
+  background: rgb(235, 208, 208);
   margin-bottom: 10px;
 }
 .sectionTwo #art1 {
@@ -340,7 +339,7 @@ header .flexHeader div nav ul a {
 }
 
 .sectionThreebackground {
-  background: linear-gradient(180deg, #8E806A 0%, #C3B091 15%, #E4CDA7 40%, #FFE6BC 80%);
+  background: rgb(247, 240, 238);
   background-size: cover;
   font-family: "Fuzzy Bubbles", cursive;
   width: 100%;

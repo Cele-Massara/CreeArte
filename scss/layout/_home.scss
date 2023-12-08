@@ -5,10 +5,8 @@
 .sectionOnebackground {
 
     // background
-
-    background-image: url(destacados/section_1.jpg);
-    background-size: cover;
-    font-family: $default-font;
+    
+    font-family: $profesional-font;
     width: 100%;
 
     .text-center {
@@ -39,7 +37,7 @@
     // carousel    
 
         .carousel-inner {
-            border: 2px solid black;
+            border: 1px solid lightpink;
         }
 
         .imgCarousel {
@@ -58,6 +56,7 @@
             p {
                 font-family: $custom-font;
                 font-size: $h4-font-size;
+                color: white;
                 @media (max-width: $sm) {
                     font-size: $font-size-base;
                 }
@@ -71,7 +70,7 @@
         }
 
         .imagenMes {
-            border: 8px double black;
+            border-radius: 10px;
             height: $normal;
         }
     }
@@ -111,7 +110,7 @@
     font-family: $default-font;
     height: auto;
     width: 100%;
-    background: $cold-body;
+    background: rgb(235, 208, 208);
     margin-bottom: 10px;
 
     // box
@@ -161,7 +160,7 @@
 //-- section three
 
 .sectionThreebackground {
-    background: $vintage-body; 
+    background: rgb(247, 240, 238); 
     background-size: cover;
     font-family: $default-font;
     width: 100%;
