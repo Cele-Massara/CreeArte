@@ -595,7 +595,6 @@ header .flexHeader div nav ul a {
   border: 3px solid white;
   font-size: 15px;
   padding: 5px;
-  font-family: monospace;
 }
 .sectionContact div fieldset form div .sendContact:active {
   transform: rotate(360deg);
@@ -604,9 +603,6 @@ header .flexHeader div nav ul a {
   background-color: white;
   font-family: "Grechen Fuemen", cursive;
   padding: 5px;
-  border-radius: 5px;
-  border: double;
-  font-weight: bold;
   font-size: 20px;
   transition: all 1s;
 }
@@ -614,7 +610,6 @@ header .flexHeader div nav ul a {
   border: 3px solid white;
   font-size: 15px;
   padding: 5px;
-  font-family: monospace;
 }
 .sectionContact div fieldset form div .GetOutcontact:active {
   transform: rotate(-360deg);
@@ -623,9 +618,6 @@ header .flexHeader div nav ul a {
   background-color: white;
   font-family: "Grechen Fuemen", cursive;
   padding: 5px;
-  border-radius: 5px;
-  border: double;
-  font-weight: bold;
   font-size: 20px;
   transition: all 1s;
 }
