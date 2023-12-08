@@ -1,9 +1,9 @@
 // -------------------- HEADER
 
 header {
-    height: 480px;
+    height:370px;
     width: 100%;
-    background: $tropical-palett; 
+    background: rgb(247, 215, 219); 
 
     @media (max-width: 575px) {
         height: 770px;
@@ -39,7 +39,7 @@ header {
         } 
     
         a {
-            font-family: $default-font;
+            font-family: $profesional-font;
         }   
     }
 
@@ -60,9 +60,8 @@ header {
             }
 
             img{
-                height: 250px;
+                height: 160px;
                 padding: 5px;
-                border: 5px double;
             }
         }
 
@@ -73,8 +72,8 @@ header {
                 ul {
                     display: flex;
                     list-style: none;
-                    justify-content:space-evenly;
-                    font-family: $custom-font;
+                    justify-content: flex-end;
+                    font-family: $profesional-font;
                     font-size: 30px;
                     align-items: center;
 
@@ -88,15 +87,16 @@ header {
                         
                         &:hover {
                             transition: all 400ms;
-                            transform: scale(1.5);
+                            transform: scale(1.1);
                         } 
                     }
                     
                     a {
-                        font-family: $custom-font;
-                        font-size: 30px;
+                        font-family: $profesional-font;
+                        font-size: 18px;
                         text-decoration: none;
-                        color: black;
+                        color: white;
+                        margin-left: 10px;
 
                         @media (max-width: $md) {
                             font-size: $h3-font-size;
