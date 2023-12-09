@@ -1,12 +1,12 @@
-* **Profesor:** Emanuel Cabral
+* **Profesor:** Daniel Riverol
 
-* **Desarrollado por la estudiante:** Marcelo Gabriel Rosso
+* **Desarrollado por la estudiante:** Gisela Celeste Massara Rovatti
 
-* **Proyecto final:** https://marcelorosso.github.io/Geek-World/
+* **Proyecto final:**  https://cele-massara.github.io/CreeArte/
 
 ## Fundamentación
 
-El proyecto surge como propuesta de crear un sitio para disfrutar de un variado contenido relacionado al mundo del anime y los superheroes.
+El proyecto surge como propuesta de crear un sitio para disfrutar de un variado contenido relacionado al mundo de la cerámica.
 El trabajo busca reflejar el **estilo propio** con relación a paletas de colores, tipos de letras y variedad de imagenes:
 
 * Paleta en donde el protagonismo es obtenido por colores suaves y populares.
@@ -34,5 +34,4 @@ El trabajo busca reflejar el **estilo propio** con relación a paletas de colore
 
 ## Contacto
 
-* **LinkedIn:** https://www.linkedin.com/in/marcelo-gabriel-rosso-6797369a/
-* **GitHub:** https://github.com/marcelorosso/Geek-World
+* **GitHub:** https://github.com/Cele-Massara/CreeArte.git
